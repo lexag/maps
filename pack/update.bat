@@ -1,1 +1,1 @@
-cp .\map\map.png '.\pack\Kakan texturer\assets\minecraft\textures\painting\skeleton.png'
+cp ..\map\map.png '.\Kakan texturer\assets\minecraft\textures\painting\skeleton.png'
